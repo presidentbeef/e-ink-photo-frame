@@ -62,6 +62,6 @@ void loop() {
     reader.printStatus(stat);  // Did it work?
     display.display();
 
-    delay(3 * 60000);  // Pause 5 minutes.
+    delay(5 * 60000);  // Pause 5 minutes.
   }
 }
